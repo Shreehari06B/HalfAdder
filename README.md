@@ -16,10 +16,10 @@ This project was created using **Logic Circuit Simulator Pro** on Android.
 | 1 | 0 |      1       |       0        |
 | 1 | 1 |      0       |       1        |
 
-
-
-
-
 ## 🛠 Tools Used
 
 - Logic Circuit Simulator Pro (Android app)
+
+## 💡 How it works
+
+The Half Adder adds two 1-bit inputs. The **Sum** is calculated using an XOR gate, and the **Carry** using an AND gate. The circuit is built using drag-and-drop logic gates in the app.
