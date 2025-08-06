@@ -29,6 +29,10 @@ Images are available in
 - **Project 1_HalfAdder (3).png**
 - **Project 1_HalfAdder.png**
 
+##View video 
+
+- Go to ** **
+- Click on ** **
 
 
 ## 🛠 Tools Used
