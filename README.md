@@ -23,4 +23,3 @@ This project was created using **Logic Circuit Simulator Pro** on Android.
 ## 🛠 Tools Used
 
 - Logic Circuit Simulator Pro (Android app)
-- GitHub (for sharing the project)
