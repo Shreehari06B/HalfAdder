@@ -31,8 +31,8 @@ Images are available in
 
 ##View video 
 
-- Go to ** **
-- Click on ** **
+- Go to **HalfAdder_Simulation.mp4**
+- Click on **view raw **
 
 
 ## 🛠 Tools Used
