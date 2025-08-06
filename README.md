@@ -29,7 +29,7 @@ Images are available in
 - **Project 1_HalfAdder (3).png**
 - **Project 1_HalfAdder.png**
 
-##View video 
+## View video 
 
 - Go to **HalfAdder_Simulation.mp4**
 - Click on **view raw**
